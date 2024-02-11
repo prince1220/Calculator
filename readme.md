@@ -1,9 +1,23 @@
-# Calculator project
 
-## Technologies:
- - HTML - CSS - JavaScript
+ #  Calculator Project
  
+ ## Table of contents
+ *  [General info] (#general-info)
+ *  [Technologies] (#technologies)
+ *  [Setup] (#setup)
 
- """ To list """
- - Complete the read me
- - Complete the style.css
+## General info
+This project is a practice simulation of a basic functional calculator.
+
+## Technologies
+* HTML
+* CSS 
+* JavaScript
+* Github
+
+## Setup 
+To run this project, install it locally using npm:
+
+$ cd..CALCULATOR  
+$ npm install
+$ npm start
